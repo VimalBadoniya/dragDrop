@@ -1,0 +1,80 @@
+.div1{
+    height: 300px;
+    width: 200px;
+    border: 2px solid red;
+}
+
+.liDiv1{
+    display: flex;
+    border: 1px solid red;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    padding: 2px;
+}
+.liDiv2{
+    display: flex;
+    border: 1px solid green;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    padding: 2px;
+}
+.liDiv3{
+    display: flex;
+    border: 1px solid blue;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    padding: 2px;
+}
+.liDiv4{
+    display: flex;
+    border: 1px solid rgb(143, 161, 2);
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    padding: 2px;
+}
+
+.div2{
+    height: 300px;
+    width: 200px;
+    border: 2px solid green;
+}
+.div3{
+    height: 300px;
+    width: 200px;
+    border: 2px solid blue;
+}
+.div4{
+    height: 300px;
+    width: 200px;
+    border: 2px solid rgb(143, 161, 2);
+}
+
+.parentDiv{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+.liBat{
+    list-style: none;
+    margin: 4px ;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+.liBowl{
+    list-style: none;
+    margin: 4px ;
+    padding: 2px;
+    border: 1px solid green;
+    display: flex;
+    justify-content: center;
+}
+
+.dragBtn{
+    background-color: white;
+    border: 1px solid black;
+}
